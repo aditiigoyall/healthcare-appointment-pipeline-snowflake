@@ -1,3 +1,5 @@
+### This script sets up database, tables, stage, and loads data
+
 -- Create a new database for the project
 CREATE OR REPLACE DATABASE healthcare_db;
 
