@@ -100,5 +100,3 @@ healthcare-appointment-pipeline-snowflake/
 * Integrate dashboard (Power BI/Tableau)
 * Implement ML model to predict no-shows
 
-
-Feel free to connect for collaboration or feedback!
